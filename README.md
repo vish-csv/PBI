@@ -14,9 +14,9 @@ This repository includes projects that highlight my ability to work with diverse
 - **Description:** A comprehensive dashboard to analyze sales performance across different regions and product categories.
 - **Features:** Interactive filters, trend analysis, and KPI indicators.
 
-### 2. Customer Insights Dashboard
-- **Description:** A detailed dashboard to understand customer behavior and preferences.
-- **Features:** Segmentation analysis, customer lifetime value, and purchase patterns.
+### 2. Customer Churn Dashboard
+- **Description:** An in-depth analysis of customer churn to identify key reasons and trends.
+- **Features:** Churn rate, Churn reason, churn categories, geographical analysis, customer service impact.
 
 ### 3. Financial Analysis Dashboard
 - **Description:** A dashboard to monitor financial metrics and performance.
