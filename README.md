@@ -10,17 +10,17 @@ I am a PowerBI professional with extensive experience in developing and implemen
 
 This repository includes projects that highlight my ability to work with diverse datasets and create meaningful visualizations. Here are some of the key projects you'll find:
 
-### 1. Sales Performance Dashboard
-- **Description:** A comprehensive dashboard to analyze sales performance across different regions and product categories.
+### 1. Retail Supply Chain and Sales Analysis Dashboard
+- **Description:** An analysis of retail supply chain and sales data for North America.
 - **Features:** Interactive filters, trend analysis, and KPI indicators.
 
 ### 2. Customer Churn Dashboard
 - **Description:** An in-depth analysis of customer churn to identify key reasons and trends.
 - **Features:** Churn rate, Churn reason, churn categories, geographical analysis, customer service impact.
 
-### 3. Financial Analysis Dashboard
-- **Description:** A dashboard to monitor financial metrics and performance.
-- **Features:** Profit and loss statements, balance sheets, and financial ratios.
+### 3. Social Media Performance Dashboard
+- **Description:** A detailed social media performance metrics analysis over the past year.
+- **Features:** Engagement rate, User Behaviour, Key Influencers, Likes and comments trend, Profile visit engagements.
 
 ### 4. College Projects
 - **Description:** Various projects developed during my time at college, demonstrating my foundational skills and growth in data visualization.
